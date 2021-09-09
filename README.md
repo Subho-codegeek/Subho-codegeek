@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Subho-codegeek&label=Profile%20views&color=0e75b6&style=flat" alt="Subho-codegeek" /> </p>
 <img align="right" alt="coding" width="250" src="https://sd.keepcalms.com/i/keep-calm-and-lets-code-2.png">
 
-- 🔭 I’m currently studying in **class 12** 
+- 🔭 I’m a first year CS student. 
 
 - 🌱 I’m currently learning **ReactJS**
 

@@ -6,7 +6,7 @@
 
 - 🔭 I’m a first year **Computer Science** student. 
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **NodeJS**
 
 - 💬 Ask me about **Python,JS,HTML,CSS,React,MySQL**
 

@@ -18,7 +18,6 @@
 - ⚡ Fun fact: **The first oranges weren’t orange**
 
 
-
 <h2 align="left">Languages and Tools:</h2>
 <p align="left"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/> 
@@ -31,8 +30,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> 
 </p>
 
-
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Subho-codegeek&show_icons=true&locale=en&layout=compact&theme=radical" alt="subho-codegeek" width="300"/></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Subho-codegeek&theme=radical" alt="subho-codegeek"/></p>
 

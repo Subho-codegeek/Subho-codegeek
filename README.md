@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Subhamay Paul</h1>
-<h3 align="center">A codegeek trying to do some cool stuffs with his coding skills!!</h3>
+<h1 align="center">Hi 👋, I'm Subhamay</h1>
+<h3 align="center">Trying to do some cool stuffs with my coding skills</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Subho-codegeek&label=Profile%20views&color=0e75b6&style=flat" alt="Subho-codegeek" /> </p>
 <img align="right" alt="coding" width="250" src="https://sd.keepcalms.com/i/keep-calm-and-lets-code-2.png">
 
-- 🔭 I’m a first year **Computer Science** student. 
+- 🔭 I’m a **Computer Science** undergrad. 
 
 - 🌱 I’m currently learning **NodeJS**
 

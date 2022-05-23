@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Subhamay</h1>
 <h3 align="center">Trying to do some cool stuffs with my coding skills</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Subho-codegeek&label=Profile%20views&color=0e75b6&style=flat" alt="Subho-codegeek" /> </p>
-<img align="right" alt="coding" width="250" src="https://sd.keepcalms.com/i/keep-calm-and-lets-code-2.png">
+<p> <img src="https://komarev.com/ghpvc/?username=Subho-codegeek&label=Profile%20views&color=0e75b6&style=flat" alt="Subho-codegeek" />
+<img align="right" alt="coding" width="250" height="300" src="https://sd.keepcalms.com/i/keep-calm-and-lets-code-2.png"> </p>
+
 
 - 🔭 I’m a **Computer Science** undergrad. 
 
@@ -16,8 +17,8 @@
 
 
 - ⚡ Fun fact: **The first oranges weren’t orange**
-
-
+  
+------------------------
 <h2 align="left">Languages and Tools:</h2>
 <p align="left"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
@@ -31,8 +32,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>   
 </p>
 
+------------------------
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Subho-codegeek&theme=radical" alt="subho-codegeek"/>
-<img src="https://github-readme-stats.vercel.app/api?username=Subho-codegeek&show_icons=true&locale=en&theme=radical" alt="subho-codegeek"/></p>
+<p align="center"><img width=48% src="https://github-readme-streak-stats.herokuapp.com/?user=Subho-codegeek&theme=radical" alt="subho-codegeek"/>
+<img width=48% src="https://github-readme-stats.vercel.app/api?username=Subho-codegeek&show_icons=true&locale=en&theme=radical" alt="subho-codegeek"/></p>
 
 

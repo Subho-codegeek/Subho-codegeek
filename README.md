@@ -32,8 +32,7 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Subho-codegeek&theme=radical" alt="subho-codegeek"/></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Subho-codegeek&show_icons=true&locale=en&theme=radical" alt="subho-codegeek"/></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Subho-codegeek&theme=radical" alt="subho-codegeek"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Subho-codegeek&show_icons=true&locale=en&theme=radical" alt="subho-codegeek"/></p>
 
 

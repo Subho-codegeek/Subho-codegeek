@@ -2,7 +2,7 @@
 <h3 align="center">Trying to do some cool stuffs with my coding skills</h3>
 
 <p> <img src="https://komarev.com/ghpvc/?username=Subho-codegeek&label=Profile%20views&color=0e75b6&style=flat" alt="Subho-codegeek" />
-<img align="right" alt="coding" width="250" height="300" src="https://sd.keepcalms.com/i/keep-calm-and-lets-code-2.png"> </p>
+<img align="right" alt="coding" width="250" height="290" src="https://sd.keepcalms.com/i/keep-calm-and-lets-code-2.png"> </p>
 
 
 - 🔭 I’m a **Computer Science** undergrad. 
@@ -18,8 +18,6 @@
 
 - ⚡ Fun fact: **The first oranges weren’t orange**
 
-
-  
 ------------------------
 <h2 align="left">Languages and Tools:</h2>
 <p align="left"> 

@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Python,JS,HTML,CSS,React,MySQL**
+- 💬 Ask me about **Python,JS,HTML,CSS,React,Node**
 
 - 📫 How to reach me:
   - [LinkedIn](https://www.linkedin.com/in/subhamay-paul-775820179/)

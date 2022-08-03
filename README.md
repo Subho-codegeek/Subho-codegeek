@@ -7,7 +7,7 @@
 
 - 🔭 I’m a **Computer Science** undergrad. 
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **Python,JS,HTML,CSS,React,MySQL**
 

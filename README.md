@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Subhamay</h1>
-<h3 align="center">Trying to do some cool stuffs with my coding skills</h3>
+<h3 align="center">Building cool stuffs with my coding skills</h3>
 
 <p> <img src="https://komarev.com/ghpvc/?username=Subho-codegeek&label=Profile%20views&color=0e75b6&style=flat" alt="Subho-codegeek" />
 <img align="right" alt="coding" width="250" height="290" src="https://sd.keepcalms.com/i/keep-calm-and-lets-code-2.png"> </p>
